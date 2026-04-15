@@ -1,6 +1,6 @@
 ---
-title: "AI個人開発のリアル：事故らない「Build in Public」環境の作り方"
-emoji: "🧭"
+title: "「本番とテスト環境ってどう分けるの？」AIでWebアプリを作り始めた初心者が知るべき安全な運用構成"
+emoji: "🐣"
 type: "tech"
 topics: ["git", "初心者", "cloudflare", "個人開発", "AI"]
 published: false
